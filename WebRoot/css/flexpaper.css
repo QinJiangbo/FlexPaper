@@ -1,0 +1,82 @@
+.top{
+	font-family:Arial;
+	height:100px;
+	width:100%;
+	margin-top:0px;
+	background-color:#F9EE24;
+}
+
+.head{
+	font-size:52px;
+	text-align:center;
+	line-height:100px;
+}
+
+#processbar{
+	margin-bottom:0px !important;
+	border-radius:0px !important;
+}
+
+.down{
+	height:540px;
+	width:1366px;
+}
+
+#viewerPlaceHolder{
+	height:100%;
+	width:1000px;
+	display:block;
+	float:left;
+}
+
+#upload{
+	height:100%;
+	width:366px;
+	float:left;
+}
+
+.item{
+	font-family:Arial;
+	font-size:20px;
+	height:50px;
+	width:366px;
+	border-bottom:solid 3px #666;
+}
+
+.btn-item{
+	font-family:Arial;
+	font-size:20px;
+	height:50px;
+	width:366px;
+	margin-top:10px;
+}
+
+.button{
+	width:250px;
+	margin-left:55px;
+}
+
+#uploadFile{
+	width:366px;
+	height:40px;
+	padding-top:10px;
+}
+
+.label1{
+	width:130px;
+	font-family:Arial;
+	margin-right:10px;
+	font-size:22px;
+	float:left;
+	text-align:right;
+	line-height:50px;
+}
+
+.item-form{
+	position:relative;
+	top:15%;
+}
+
+.form-control{
+	width:220px !important;
+}
